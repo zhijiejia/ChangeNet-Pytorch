@@ -1,5 +1,9 @@
 # ChangeNet-Pytorch
 
+### Paper
+
+  ChangeNet: A Deep Learning Architecture for Visual Change Detection
+
 ### DataSet
   
   VL-CMU-CD which split to train.txt and test.txt
