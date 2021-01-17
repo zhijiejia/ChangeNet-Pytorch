@@ -8,4 +8,4 @@
   
   2 class: mIOU: 83%, epoch: 50
   
-  12 class: mIOU: {running}, epoch: 50
+  12 class: mIOU: 34%, epoch: 50
