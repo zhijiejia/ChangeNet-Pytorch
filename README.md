@@ -6,6 +6,6 @@
   
 ### Result
   
-  2 class: mIOU: 83%, epoch: 50
+  2 class(change and unchange): mIOU: 83%, epoch: 50
   
-  12 class: mIOU: 34%, epoch: 50
+  12 class(background and 10 class and black border): mIOU: 34%, epoch: 50
